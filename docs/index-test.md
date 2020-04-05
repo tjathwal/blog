@@ -128,7 +128,7 @@ end
 
 ### Image gallery
 
-{% include image-gallery.html folder="../uploads/posts/Portland/Rose_Garden" %}
+{% include image-gallery.html folder="../uploads/posts/portland/roseGarden" %}
 
 ### Definition lists can be used with HTML syntax.
 
