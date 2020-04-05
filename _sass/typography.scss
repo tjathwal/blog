@@ -39,6 +39,10 @@ h6,
   color: $grey-dk-200;
 }
 
+ul {
+  list-style-type: none;
+}
+
 li {
   .highlight {
     margin-top: $sp-2;
