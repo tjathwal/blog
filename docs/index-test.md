@@ -127,6 +127,7 @@ end
 
 ### Image gallery
 
+![Image of Rose](https://tjathwal.github.io/blog/uploads/roseGarden/Portland-0158.jpg)
 
 ### Definition lists can be used with HTML syntax.
 
