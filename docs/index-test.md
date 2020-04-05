@@ -131,9 +131,9 @@ Large Test Image:
 
 ![Image of Rose](https://tjathwal.github.io/blog/uploads/roseGarden/Portland-0158.jpg)
 
-Below should be a gallery of images:
+Below should be a gallery of images, try #2:
 
-{% include image-gallery.html folder="/blog/uploads/roseGarden" %}
+{% include image-gallery.html folder="/uploads/roseGarden" %}
 
 ### Definition lists can be used with HTML syntax.
 
