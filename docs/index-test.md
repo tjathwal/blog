@@ -131,7 +131,7 @@ Large Test Image:
 
 ![Image of Rose](https://tjathwal.github.io/blog/uploads/roseGarden/Portland-0158.jpg)
 
-Below should be a gallery of images, try 3 with lightbox and high res images:
+Below should be a gallery of images. Lightbox is on, high res, try 4 with no bullet point on ul feature:
 
 {% include image-gallery.html folder="/uploads/roseGarden" %}
 
