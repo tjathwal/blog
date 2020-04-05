@@ -55,6 +55,9 @@ footer_content: "Copyright &copy; 2020 Tejpal Athwal. Distributed by an <a href=
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
 
+ sass:
+    sass_dir: _sass
+
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
