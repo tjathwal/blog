@@ -46,7 +46,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "Dental Index":
     - "//github.com/pmarsceill/just-the-docs"
 
 # Footer content appears at the bottom of every page's main content

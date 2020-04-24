@@ -135,6 +135,8 @@ Below should be a gallery of image of roses. Lightbox is on, low res:
 
 {% include image-gallery.html folder="/uploads/roseGarden" %}
 
+And some text goes here.
+
 ### Definition lists can be used with HTML syntax.
 
 <dl>
